@@ -1,7 +1,7 @@
 # Lovely to have you here!
 
 
-I am Full Stack Web Developer student in Business College Helsinki.
+##**I am Full Stack Web Developer student** in Business College Helsinki.
 
 Before starting my studies in august 2021 I have taken two courses from Metropolia University of Applied Sciences on **Java** and **C#**. 
 
