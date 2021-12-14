@@ -28,7 +28,7 @@ In my studies in [Business College Helsinki](https://en.bc.fi/qualifications/ful
 
 &nbsp;
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+https://github-readme-stats.vercel.app/api/top-langs/?username={MariaRosenholm}&theme=blue-green
 
 :school_satchel: Currently I am working on school projects. 
 &nbsp;
