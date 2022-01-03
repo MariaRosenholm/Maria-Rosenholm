@@ -40,3 +40,5 @@ If you have any questions, job and intership offers please contact me by email :
 
 My passion besides coding is dancing and very much of my free time revolves around it. 
 [Find out more](https://www.instagram.com/m1ss.maria/)
+
+[Langugaes](https://github-readme-stats.vercel.app/api/top-langs/?username={MariaRosenholm}&theme=blue-green)
