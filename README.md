@@ -35,9 +35,16 @@ In my studies in [Business College Helsinki](https://en.bc.fi/qualifications/ful
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaRosenholm&theme=swift)
+&nbsp;
 
+&nbsp;
 
-If you have any questions, job and intership offers please contact me by email :email: maria.rosenholm@gmail.com or &nbsp; [![IG](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariarosenholm/)
+If you have any questions, job and intership offers please contact me by &nbsp;
+
+&nbsp;
+ :email: maria.rosenholm@gmail.com  &nbsp;
+
+&nbsp; [![IG](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariarosenholm/)
 &nbsp;
 
 &nbsp;
