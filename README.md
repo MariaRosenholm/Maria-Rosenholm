@@ -33,12 +33,17 @@ In my studies in [Business College Helsinki](https://en.bc.fi/qualifications/ful
 
 &nbsp;
 
-If you have any questions, job and intership offers please contact me by email :email: maria.rosenholm@gmail.com 
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaRosenholm&theme=swift)
+
+
+If you have any questions, job and intership offers please contact me by email :email: maria.rosenholm@gmail.com or &nbsp; [![IG](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariarosenholm/)
 &nbsp;
 
 &nbsp;
 
 My passion besides coding is dancing and very much of my free time revolves around it. 
-[Find out more](https://www.instagram.com/m1ss.maria/)
+&nbsp;
 
-[Langugaes](https://github-readme-stats.vercel.app/api/top-langs/?username={MariaRosenholm}&theme=blue-green)
+
+Check it out from &nbsp; [![IG](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m1ss.maria/)
