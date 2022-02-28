@@ -5,7 +5,7 @@
 
 Before starting my studies in august 2021 I have taken two courses from Metropolia University of Applied Sciences on **Java** and **C#**. 
 
-In my studies in [Business College Helsinki](https://en.bc.fi/qualifications/full-stack-web-developer-program/) we are going learn about: 
+In my studies in [Business College Helsinki](https://en.bc.fi/qualifications/full-stack-web-developer-program/) we are learning about: 
 
 :white_circle: HTML5
 
@@ -28,17 +28,12 @@ In my studies in [Business College Helsinki](https://en.bc.fi/qualifications/ful
 
 &nbsp;
 
-:school_satchel: Currently I am working on school projects. 
-&nbsp;
-
-&nbsp;
-
-
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaRosenholm&theme=swift)
 &nbsp;
 
 &nbsp;
 
+I am looking for internship for the summer/autumn 2022!
 If you have any questions, job and intership offers please contact me by &nbsp;
 
 &nbsp;
