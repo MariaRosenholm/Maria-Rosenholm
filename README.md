@@ -28,7 +28,7 @@ In my studies in [Business College Helsinki](https://en.bc.fi/qualifications/ful
 
 &nbsp;
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaRosenholm&theme=swift)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaRosenholm&langs_count=8&theme=swift)
 &nbsp;
 
 &nbsp;
