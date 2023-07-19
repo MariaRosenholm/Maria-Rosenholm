@@ -1,11 +1,10 @@
 # Lovely to have you here!
 
 
-## **I am Full Stack Web Developer student** in Business College Helsinki.
+## Here you can find my Business College Helsinki and Metropolia University of Applied Sciences studies projects, and in the future my own projects.
+I have taken two courses from Metropolia University of Applied Sciences on **Java** and **C#**. 
 
-Before starting my studies in august 2021 I have taken two courses from Metropolia University of Applied Sciences on **Java** and **C#**. 
-
-In my studies in [Business College Helsinki](https://en.bc.fi/qualifications/full-stack-web-developer-program/) we were learning about: 
+In my studies in Business College Helsinki we were learning about: 
 
 :white_circle: HTML5
 
