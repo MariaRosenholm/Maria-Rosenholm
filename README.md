@@ -34,6 +34,5 @@ In my studies in Business College Helsinki we were learning about:
 
 If you have any questions or ideas to collaborate please contact me by &nbsp;
 
-&nbsp;
 email: contact@mariarosenholm.com &nbsp;
 
