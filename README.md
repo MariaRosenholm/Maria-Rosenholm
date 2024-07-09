@@ -37,12 +37,3 @@ If you have any questions or ideas to collaborate please contact me by &nbsp;
 &nbsp;
 email: contact@mariarosenholm.com &nbsp;
 
-&nbsp; [![IG](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariarosenholm/)
-&nbsp;
-
-&nbsp;
-
-My passion besides coding is dancing and very much of my free time revolves around it!
-&nbsp;
-
-Check it out from &nbsp; [![IG](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m1ss.maria/)
